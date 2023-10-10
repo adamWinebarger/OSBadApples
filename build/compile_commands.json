@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/adam/projects/OSBadApples/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/osbadapples.dir/main.c.o -c /home/adam/projects/OSBadApples/main.c",
+  "file": "/home/adam/projects/OSBadApples/main.c"
+}
+]

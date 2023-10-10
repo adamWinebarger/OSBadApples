@@ -1,0 +1,7 @@
+/home/adam/projects/OSBadApples/build/CMakeFiles/osbadapples.dir
+/home/adam/projects/OSBadApples/build/CMakeFiles/edit_cache.dir
+/home/adam/projects/OSBadApples/build/CMakeFiles/rebuild_cache.dir
+/home/adam/projects/OSBadApples/build/CMakeFiles/list_install_components.dir
+/home/adam/projects/OSBadApples/build/CMakeFiles/install.dir
+/home/adam/projects/OSBadApples/build/CMakeFiles/install/local.dir
+/home/adam/projects/OSBadApples/build/CMakeFiles/install/strip.dir
